@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "mkdir -p public && echo hoge > public/index.html"
+    "build": "mkdir -p public && echo mogemoge > public/index.html"
   },
   "repository": {
     "type": "git",
